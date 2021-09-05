@@ -1,4 +1,4 @@
-import UseStateInput from './components/useStateTut/UseStateInput'
+import UseStateInput from './components/useStateHook/UseStateInput'
 const App = () => {
   return <UseStateInput />
 }
