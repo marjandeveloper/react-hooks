@@ -1,6 +1,6 @@
-import UseStateTut from './components/UseStateTut'
+import UseStateInput from './components/useStateTut/UseStateInput'
 const App = () => {
-  return <UseStateTut />
+  return <UseStateInput />
 }
 
 export default App
