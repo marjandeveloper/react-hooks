@@ -1,6 +1,6 @@
-import UseStateInput from './components/useStateHook/UseStateInput'
+import ReducerTut from './components/useReducerHook/ReducerTut'
 const App = () => {
-  return <UseStateInput />
+  return <ReducerTut />
 }
 
 export default App
