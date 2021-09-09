@@ -19,7 +19,7 @@ const ReducerTut = () => {
       <button
         onClick={() => {
           dispach({ type: 'INCREMENT' })
-          state.showText && dispach({ type: 'toggleShowText' })
+          dispach({ type: 'toggleShowText' })
         }}
       >
         Click Here
